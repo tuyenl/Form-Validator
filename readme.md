@@ -21,3 +21,9 @@
 # Part 3 - Using Js Validate Form
 * Check user input, if not valid then change input border to error color else change to success color
 * Check if email is valid using js email regex code
+
+
+# Part 4 - Refactoring, Add New Functions
+* Have all the validations done through the functions
+* Create checkRequired, checkLength, passwordMatch functions
+* Refactored checkEmail function
